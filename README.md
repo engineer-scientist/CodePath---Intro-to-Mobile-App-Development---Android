@@ -1,7 +1,7 @@
-## Hello World app
+## HelloWorld app
 
 ### App Description
-Simple app that: 
+A simple app that: 
 * shows color background, 
 * displays the text "Hello from Sarthak!" on the phone screen, and 
 * has a button to change the text color from black to white. 
