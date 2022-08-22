@@ -1,14 +1,12 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello World app
 
 ### App Description
-`TODO://` Add app description
+`TODO://` Simple app that shows color background, displays the text "Hello from Sarthak!" on the phone screen, and has a button to change the text color from black to white. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/TYh8dMKDkE.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
