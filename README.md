@@ -8,7 +8,7 @@ Simple app that:
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/TYh8dMKDkE.gif" width=200><br>
+<img src="http://g.recordit.co/TYh8dMKDkE.gif" width=300><br>
 
 
 ### Required User Stories
